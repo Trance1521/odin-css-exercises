@@ -1,0 +1,20 @@
+.OddNumber {
+    background-color: #F79AC0;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#FirstID {
+    color: rgb(0,0,255);
+    font-size: 36px;
+
+}
+
+.Three {
+    font-size: 24px;
+}
+
+#ThirdID {
+    background-color: #00ff7f;
+    font-size: 24px;
+    font-weight: 700;
+}
